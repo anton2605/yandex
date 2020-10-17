@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+     <generation-date>2020-10-17T11:10:00+04:00</generation-date>   
+
+<!-- Квартира на вторичном рынке -->  
+
+<!-- ID квартиры -->                   
+<offer internal-id="55884">  
+   
+<!-- Продажа -->                          
+<type>продажа</type>  
+
+<!-- Тип недвижимости не менять для жилой -->       
+<property-type>жилая</property-type>     <!-- Это комментарий -->   
+
+<!-- Вид недвижимости --> 
+<category>квартира</category>  
+
+<!-- Тип сделки «прямая продажа»/«sale» «первичная продажа вторички»/«primary sale of secondary» «первичная продажа»/«продажа от застройщика»--> 
+<deal-status>первичная продажа вторички</deal-status> 
+
+<!-- Дата создания -->              
+<creation-date>2020-10-17T11:02:45+04:00</creation-date>
+
+<!-- Локация -->
+<location>
+
+  <!--Страна не менять -->	             
+  <country>Россия</country> 
+
+  <!--Край Ставропольский-->
+  <region>Ставропольский край</region>  
+
+  <!--Район Шпаковский -->           
+  <district>Шпаковский район</district>             
+  
+  <!-- Город не менять-->           
+  <locality-name>Михайловск</locality-name>  
+   
+  <!-- Улица и номер дома -->        
+  <address>Ленина, 202/1</address> 
+
+  <!-- Номер квартиры -->
+  <apartment>46</apartment> 
+
+  <!-- Информация о метро стерта -->
+
+</location>         
+<sales-agent>
+
+  <!-- Агент -->
+  <category>агентство</category>
+
+  <!-- Имя <name>Елена<name/>  --> 
+  
+
+  <!-- номер телефонай -->           
+  <phone>+79054170774</phone>
+
+   <organization/>Юрид ПЛЮС<organization/>
+   <url>www.nova26.ru</url>
+    
+</sales-agent>     
+
+<price>  
+
+  <!-- Цена --> 
+  <value>1800000</value>        
+  <currency>RUR</currency> 
+</price>
+
+<area>     
+  <!-- Площадь -->
+  <value>36</value>     
+  <unit>кв. м</unit> 
+</area>
+<!-- Количество комнат общее --> 
+<rooms>1</rooms>
+
+<!-- Количество комнат в сделке<rooms-offered>1</rooms-offered> -->
+
+<!-- Описание --> 
+<description>Квартира общей площадью 36,6 в одном из лучших по качеству доме 2008 года постройки, от застройщика "АЛЬЯНС". Коммуникации все современные, отопление конечно ИНДИВИДУАЛЬНОЕ - Вы будете сами регулировать его под свои потребности!  </description>
+
+<!-- Картинки --> 
+<image>https://estate.website.yandexcloud.net/photos/55884/6aa4ae02-b867-4830-a634-1a68e1136f3b.jpg</image>
+
+<!-- Этаж --> 
+<floor>2</floor>
+
+<!-- ID Жилоко комплекс<yandex-building-id>12345</yandex-building-id> --> 
+
+<!-- ID Дома в жилом комплексе <yandex-house-id>54321</yandex-house-id></offer>  --> 
+
+
+<!-- Конец объявления --> 
+</offer>
+<!--Конец фида--> 
+</realty-feed>
